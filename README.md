@@ -1,4 +1,3 @@
-<img width="1366" height="739" alt="image" src="https://github.com/user-attachments/assets/13a06069-ac6d-457f-a3a4-bfbd5dfa1dff" />
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
 <h3 align="center">Full Stack Developer | PHP • Laravel • JavaScript • MySQL</h3>
 
