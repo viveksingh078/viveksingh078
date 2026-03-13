@@ -2,10 +2,7 @@
 <h3 align="center">Full Stack Developer | PHP • Laravel • JavaScript • MySQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Full+Stack+Developer;Laravel+Developer;PHP+Backend+Developer;React+Learner">
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Full+Stack+Developer;Laravel+Developer;PHP+Backend+Developer;nodeJs+Learner">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Full+Stack+Developer;Laravel+Developer;PHP+Backend+Developer;React+Learner;nodeJs+Learner">
 </p>
 
 ---
