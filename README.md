@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
-<h3 align="center">Full Stack Developer | PHP • Laravel • JavaScript • MySQL</h3>
+<h3 align="center">Full Stack Developer | PHP • Laravel • JavaScript • MySQL • ReactJs • NodeJs</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Full+Stack+Developer;Laravel+Developer;PHP+Backend+Developer;React+Learner;nodeJs+Learner">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Full+Stack+Developer;Laravel+Developer;PHP+Backend+Developer;React+nodeJs">
 </p>
 
 ---
